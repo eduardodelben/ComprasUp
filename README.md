@@ -12,4 +12,4 @@ Um aplicativo simples e eficiente para ajudar no gerenciamento de compras, permi
 - **Linguagem:** C#
 - **Banco de Dados:** SQLite
 ---
-💡 *Feito por [Eduardo Delben](https://github.com/eduardodelben)**
+💡 *Feito por [Eduardo Delben](https://github.com/eduardodelben)*
