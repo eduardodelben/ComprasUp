@@ -10,7 +10,6 @@ Um aplicativo simples e eficiente para ajudar no gerenciamento de compras, permi
 ## 🛠️ Tecnologias Utilizadas
 - **Framework:** .NET MAUI
 - **Linguagem:** C#
-- **Banco de Dados:** SQLite / Azure / Firebase *(Escolha o banco que está utilizando)*
-
+- **Banco de Dados:** SQLite
 ---
 💡 *Feito por [Eduardo Delben](https://github.com/eduardodelben)**
